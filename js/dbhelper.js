@@ -155,7 +155,7 @@ class DBHelper {
 
     // Restaurant image caption.
     static imageCaption(restaurant) {
-      return (`${restaurant.caption}`);
+        return (`${restaurant.caption}`);
     }
 
 
