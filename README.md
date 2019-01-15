@@ -1,4 +1,4 @@
-# Restaurant Reviews Project - Tom Stephenson
+# Restaurant Reviews Project
 
 ## Project Overview
 
